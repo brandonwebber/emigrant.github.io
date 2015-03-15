@@ -61,7 +61,6 @@ body {
   font: 22px "freight-text-pro", "Georgia", serif;
   font-weight: 300;
   line-height: 1.4;
-  color: #292929;
   height: 100%;
   -webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
   -webkit-text-size-adjust: 100%;
@@ -69,6 +68,7 @@ body {
   -moz-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
+  color: #292929;
   word-wrap: break-word;
  }  
 
@@ -113,11 +113,10 @@ body {
 
  .logo p {
  	margin-top: 5%;
- 	font-family: 'adobe-caslon-pro', Georgia, serif;
+ 	font-family: 'freight-text-pro', Georgia, serif;
  	font-size: 0.8em;
  	font-weight: 400;
  	text-align: center;
- 	color: #fff;
  }
 
  .logo a {
