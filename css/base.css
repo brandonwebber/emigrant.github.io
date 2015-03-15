@@ -48,7 +48,7 @@ table {
 ================================================== */
   
 html { 
-  background: url(../images/bg2.jpg) no-repeat center center fixed; 
+ /** background: url(../images/bg2.jpg) no-repeat center center fixed; **/
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -58,7 +58,7 @@ html {
 }
 
 body {
-  font: 22px "adobe-caslon-pro", "Georgia", serif;
+  font: 22px "freight-text-pro", "Georgia", serif;
   font-weight: 300;
   line-height: 1.4;
   color: #292929;
