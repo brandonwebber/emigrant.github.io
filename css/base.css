@@ -72,14 +72,19 @@ body {
   word-wrap: break-word;
  }  
 
+<<<<<<< HEAD
 
 
   .page-wrap {
+=======
+.page-wrap {
+>>>>>>> master
   margin: 0 auto;
   height: 100%;
   width: 100%;
  }
 
+<<<<<<< HEAD
  
  .logo_container {
   display: table;
@@ -114,18 +119,51 @@ body {
  }
 
 .logo h3 {
+=======
+.container {
+  display: table;
+  margin: 0 auto;
+  height: 100%;
+  width: 85%;
+ }
+ 
+.logo {
+  float: left;
+  width: 20%;
+ }
+
+.logo img {
+  height: 100 px;
+ }
+
+ .content {
+  width: 60%;
+  float: right;
+  margin-top: 50px;
+ }
+
+.content h3 {
+>>>>>>> master
   text-transform: uppercase;
   margin-top: 5%;
 }
 
+<<<<<<< HEAD
  .logo p {
+=======
+ .content p {
+>>>>>>> master
  	margin-top: 5%;
  	font-family: 'freight-text-pro', Georgia, serif;
  	font-size: 0.8em;
  	font-weight: 400;
  }
 
+<<<<<<< HEAD
  .logo a {
+=======
+ .content a {
+>>>>>>> master
  	text-decoration: none;
   color: #292929;
   font-style: italic;
