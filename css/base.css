@@ -86,7 +86,7 @@ body {
   margin: 0 auto;
   margin-bottom: 5%;
   height: 100%;
-  width: 40%;
+  width: 30%;
   text-align: center;
  }
 
@@ -121,7 +121,7 @@ body {
  .logo p {
  	margin-top: 5%;
  	font-family: 'freight-text-pro', Georgia, serif;
- 	font-size: 0.8em;
+ 	font-size: 0.9em;
  	font-weight: 400;
  }
 
